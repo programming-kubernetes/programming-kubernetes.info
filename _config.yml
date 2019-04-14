@@ -1,1 +1,4 @@
 theme: jekyll-theme-minimal
+title: Programming Kubernetes
+description: Developing Cloud Native Applications
+show_downloads: false
